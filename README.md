@@ -44,7 +44,7 @@
 ### Cài đặt
 
 ```bash
-git clone https://github.com/USER/REPO.git
+git clone https://github.com/Tuannll/expo-axios-posts-demo.git
 cd expo-axios-posts-demo
 npm install
 ```
